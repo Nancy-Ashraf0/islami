@@ -1,0 +1,20 @@
+{
+  "islami": "إسلامي",
+  "versus": "عدد الايات",
+  "name": "اسم السورة",
+  "quran": "القرآن",
+  "hadeth": "حديث",
+  "ahadeth": "أحاديث",
+  "sebha": "سبحة",
+  "settings": "الاعدادات",
+  "numberOfTasbehat": "عدد التسبيحات",
+  "sobhanAllah": "سبحان الله",
+  "alhamdToAllah": "الحمد لله",
+  "thereIsNoGodButAllah": "لا إله إلا الله",
+  "quranRadio": "اذاعة القرآن الكريم",
+  "radio": "راديو",
+  "language": "اللغة",
+  "theme": "السمة",
+  "hadethName": " اسم الحديث",
+  "hadethNum": "الحديث رقم"
+}
